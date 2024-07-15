@@ -1,5 +1,5 @@
 # Transthalamic_2024
-A repository for published paper
+A repository for paper published in Mo et al., Nature Communications, 2024
 
 2-photon analysis scripts process data from Suite2p Fall.mat file
   organize_data_script_v1.m
